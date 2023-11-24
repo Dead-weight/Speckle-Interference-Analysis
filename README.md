@@ -6,6 +6,8 @@ SpeckleCapture.py captures a user-defined series of images from a teledyne camer
 
 Plotting the values of the average standard deviation and the correlation coefficient as a function of laser power can determine precise melt curves of the material. A discontinuous step for the average standard deviation in the positive direction as well as a step in the negative direction for the correlation coefficient values would indicate an increase in the variance of the speckle interference pattern, which coincides with the onset of liquid motion, or melt.
 
+![LH Breadboard](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/ac08c606-b97b-435b-90c8-52fc2ee49090)
+![LH Breadboard2](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/53725858-4ebc-4e67-ab84-e4cf2d75d453)
 
 
 ![Melt](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/577b34d8-b4e3-49a2-adf8-a8251d045400)
