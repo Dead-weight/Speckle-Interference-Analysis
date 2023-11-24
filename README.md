@@ -5,6 +5,9 @@
 SpeckleCapture.py captures a user-defined series of images from a teledyne camera and saves them according to the power output with a time-stamp in the filename. The SpeckleProcess.py program prompts the user for the filename and creates a 3D array where the values at x and y coordinates are pixel intensities along a z coordinate for number of images. The program then calculates the average standard deviation per pixel across the images and an image can be produced from this resultant 2D array. An example of the 2D and 3D outputs for the standard images is located in the files for both before and during melt. 
 
 Plotting the values of the average standard deviation and the correlation coefficient as a function of laser power can determine precise melt curves of the material. A discontinuous step for the average standard deviation value in the positive direction as well as a step in the negative direction for the correlation coefficient values would indicate a disturbance in the speckle interference pattern. This discontinuous change in these values coincides with the onset of liquid motion, or melt.
+
+
+
 ![Melt](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/577b34d8-b4e3-49a2-adf8-a8251d045400)
 ![NoMelt2D](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/9439e781-00c7-4f4e-8585-cec112bb3aaa)
 ![NoMelt3D](https://github.com/Dead-weight/Speckle-Interference-Analysis/assets/151807915/235bc602-8440-41a2-9bef-c8109f901387)
